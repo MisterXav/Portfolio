@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  portfolio:
+    image: portfolio
+    build: .
+    container_name: portfolio
+    volumes:
+      - .:/app
+    ports:
+      - "8081:8081"
