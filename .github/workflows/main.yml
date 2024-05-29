@@ -1,0 +1,49 @@
+# Nom du workflow
+name: Vue Vite CI
+
+# Déclencheurs du workflow
+on:
+  # Déclenché lors d'un push sur les branches principales
+  push:
+    branches: [main]
+  # Déclenché lors de la création d'une pull request
+  pull_request:
+    branches: [main]
+
+# Travaux à exécuter
+jobs:
+
+  # Travail d'installation des dépendances
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '21.x'
+      - run: npm ci
+
+  # Travail de construction du projet
+  build:
+    needs: install
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '21.x'
+      - run: npm run build
+
+  # Travail de test du projet
+  test:
+    needs: install
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '21.x'
+      - run: npm test
