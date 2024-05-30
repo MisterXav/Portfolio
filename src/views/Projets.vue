@@ -22,7 +22,7 @@ onMounted(() => {
 
 
     <!-- Grille -->
-    <div class="grid grid-cols-3 gap-4">
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-3 sm:gap-4">
 
         <!-- Portfolio -->
         <div data-modal-target="portfolio" data-modal-toggle="portfolio" class="transition-all duration-300 ease-in-out hover:scale-110 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">

@@ -11,7 +11,7 @@ import NavBar from '../components/NavBar.vue'
     </div>
 
 
-    <div class="grid grid-cols-2 gap-4">
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-4">
 
         <!-- GitHub -->
         <div class="transition-all duration-300 ease-in-out hover:scale-110 hover:ring-2 hover:ring-gray-950 max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
@@ -43,7 +43,7 @@ import NavBar from '../components/NavBar.vue'
 
     </div>
 
-    <div class="grid place-items-center py-4 px-2 mx-auto max-w-screen-xl lg:py-8">
+    <div class="grid sm:place-items-center py-4 sm:px-2 mx-auto max-w-screen-xl lg:py-8">
         <!-- Discord -->
         <div class="transition-all duration-300 ease-in-out hover:scale-110 hover:ring-2 hover:ring-indigo-400 max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="https://discord.com" target="_blank">

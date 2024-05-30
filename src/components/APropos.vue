@@ -29,7 +29,7 @@
                 </svg>
             </span>
 
-            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">BTS SIO SLAM a Proméo Compiègne <span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span></h3>
+            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">BTS SIO SLAM <span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span></h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Depuis Aout 2022</time>
             <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">Durant le BTS SIO j'ai appris le Java, j'ai amélioré mon niveau en PHP, et en framework (Vue/Ionic) </p>
         </li>
@@ -96,7 +96,7 @@
     </div>
 
     <!-- Grille -->
-    <div class="grid grid-cols-4 gap-4 ">
+    <div class="grid grid-cols-2 gap-4 sm:grid-cols-4 sm:gap-4">
 
         <!-- HTML -->
         <div class="transition-all duration-300 ease-in-out hover:scale-110 hover:ring-2 hover:ring-orange-500 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
