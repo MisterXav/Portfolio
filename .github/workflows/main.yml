@@ -34,4 +34,5 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '21.x'
+      - run: npm install --save-dev @vue/compiler-sfc
       - run: npm run build
