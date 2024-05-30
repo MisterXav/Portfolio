@@ -7,8 +7,8 @@
     <div class="transition-all duration-300 ease-in-out hover:scale-110 hover:ring-2 hover:ring-gray-950 mb-40 p-5 w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Je suis Xavier,</h5>
         <p class="font-normal text-gray-700 dark:text-gray-300">
-            Comme précisé plus haut, j'adore toucher a tout, que ce soit dans le développement, l'informatique ou autre. De manière générale, j'aime le jeu vidéo, la programmation, la configuration de serveur, la musique, créer de la musique, la photographie, les évènements, mais surtout créer mes propres projets surtout en équipe avec des amis.<br>
-            Je m'intéresse énormément a l'OpenSource et la vie privée en ligne. J'utilise Linux Mint comme OS principal depuis 2 ans. Je fais mon possible pour trouver des alternatives opensource et respectueuses de la vie privée en ligne. <br>
+            Comme précisé plus haut, j'adore toucher a tout, que ce soit dans le développement, l'informatique ou autre. De manière générale, j'aime le jeu vidéo, la programmation, la configuration de serveur, la musique, créer de la musique, la photographie, les évènements, mais surtout créer mes propres projets surtout en équipe avec des amis.<br><br>
+            Je m'intéresse énormément a l'OpenSource et la vie privée en ligne. J'utilise Linux Mint comme OS principal depuis 2 ans. Je fais mon possible pour trouver des alternatives opensource et respectueuses de la vie privée en ligne. <br><br>
             C'est dans cette optique que je me suis lancé dans la mise en place d'un serveur MediaCenter avec Almalinux et Nextcloud.
 
         </p>

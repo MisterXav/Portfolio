@@ -74,7 +74,7 @@
                 <!-- Modal body -->
                 <div class="p-4 md:p-5 space-y-4">
                     <p class="text-base leading-relaxed text-gray-500 dark:text-gray-300">
-                        Dans l'optique de stocker et sauvegarder toutes mes données, j'ai voulu mettre en place mon propre serveur MediaCenter<br>
+                        Dans l'optique de stocker et sauvegarder toutes mes données, j'ai voulu mettre en place mon propre serveur MediaCenter<br><br>
                         J'ai utilisé AlmaLinux, un Linux qui reprend une base de CentOs qui répond parfaitement a mes besoins, et j'ai installé Docker pour faire tourner la totalité de mes applications.<br><br>
                         Sur mon serveur, pour le moment j'ai surtout Nextcloud qui est le "cerveau", je m'en sert pour tout, stockage de fichier, calendrier, notes, Kanban, RSS, etc. J'ai également mis en place NGINX Proxy Manager pour mettre en place plusiueurs autres services.<br><br>
                         Dans le futur, je prévois d'installer encore d'autres applications, toujours en Docker, que ce soit des serveurs de jeu, des outils de productivités, des outils pour la programmation, etc. J'ai déjà prévu une liste d'outils.
@@ -189,7 +189,7 @@
                 <!-- Modal body -->
                 <div class="p-4 md:p-5 space-y-4">
                     <p class="text-base leading-relaxed text-gray-500 dark:text-gray-300">
-                        Communauté Minecraft FR est une communauté se situant principalement sur Discord et sert de hub pour la communauté française du jeu Minecraft.<br>
+                        Communauté Minecraft FR est une communauté se situant principalement sur Discord et sert de hub pour la communauté française du jeu Minecraft.<br><br>
                         L'intérêt de cette communauté est de trouver des compagnons de jeu, discuter avec des personnes ayant un intérêt commun : Minecraft, suivre l'actualité du jeu et participer a des annimations.<br><br>
                         J'ai crée le projet avec mon ami Akerck en 2018, le serveur a énormément évolué, j'ai pu faire de très nombreuses tâches comme le développement d'un bot discord, la mise en place d'un serveur, le développement de sites, de l'évènementiel, de la gestions d'équipe, etc.<br>
                         J'ai quitté le projet en 2022 pour me concentrer sur d'autres projets, mais il existe toujours et est actuellement géré par Akerck.

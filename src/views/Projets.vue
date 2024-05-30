@@ -15,7 +15,7 @@ onMounted(() => {
     <NavBar/>
 
     <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
-        <h1 class="mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Mes projets</h1>
+        <h1 class="mt-6 mb-2 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Mes projets</h1>
     </div>
 
 
