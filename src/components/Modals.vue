@@ -6,6 +6,7 @@
             <!-- Modal content -->
             <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                 <!-- Modal header -->
+                <img class="w-full rounded-t-lg" src="../assets/images/portfolio.png" alt="portfolio" />
                 <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
                     <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
                         Portfolio
@@ -60,6 +61,7 @@
             <!-- Modal content -->
             <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                 <!-- Modal header -->
+                <img class="rounded-t-lg" src="../assets/images/nas.jpg" alt="Serveur" />
                 <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
                     <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
                         Mise en place d'un serveur MediaCenter
@@ -90,6 +92,7 @@
             <!-- Modal content -->
             <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                 <!-- Modal header -->
+                <img class="rounded-t-lg" src="../assets/images/docker.png" alt="Docker" />
                 <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
                     <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
                         Dockerisation de l'environnement de développement
@@ -119,6 +122,7 @@
             <!-- Modal content -->
             <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                 <!-- Modal header -->
+                <img class="rounded-t-lg" src="../assets/images/QualipadPro-Home.jpg" alt="Qualipad" />
                 <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
                     <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
                         Appli web et mobile Qualipad
@@ -147,6 +151,7 @@
             <!-- Modal content -->
             <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                 <!-- Modal header -->
+                <img class="rounded-t-lg" src="../assets/images/AtlasNation.png" alt="AtlasNation" />
                 <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
                     <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
                         AtlasNation
@@ -175,6 +180,7 @@
             <!-- Modal content -->
             <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                 <!-- Modal header -->
+                <img class="rounded-t-lg" src="../assets/images/cmfr.png" alt="Communauté Minecraft FR" />
                 <div class="flex items-center justify-between p-4 md:p-5 border-b rounded-t dark:border-gray-600">
                     <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
                         Communauté Minectaft FR
