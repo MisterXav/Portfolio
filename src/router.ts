@@ -12,17 +12,17 @@ const routes = [
         component: Home
     },
     {
-        path: '/projets',
+        path: '/Portfolio/projets',
         name: 'Projets',
         component: Projets
     },
     {
-        path: '/contact',
+        path: '/Portfolio/contact',
         name: 'Contact',
         component: Contact
     },
     {
-        path: '/:pathMatch(.*)*',
+        path: '/Portfolio/:pathMatch(.*)*',
         name: 'NotFound',
         component: NotFound
     }
