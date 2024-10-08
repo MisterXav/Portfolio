@@ -10,7 +10,7 @@
 
 - Clone :
 ```sh
-git clone <insert-link>
+git clone https://github.com/MisterXav/Portfolio.git
 ```
 
 - Install :
@@ -23,11 +23,11 @@ npm i
 npm run dev
 ```
 
-## Docker
+## Docker (broken)
 
 - Clone :
 ```sh
-git clone <insert-link>
+git clone https://github.com/MisterXav/Portfolio.git
 ```
 
 - Run :
@@ -38,11 +38,11 @@ docker compose up -d
 
 # Resources :
 
-[Flowbite](https://flowbite.com/docs/components/buttons/) Modal, tooltip, and pre built css
+[Flowbite](https://flowbite.com/) Modal, tooltip, and pre built css
 [SVGREPO](https://www.svgrepo.com/) SVG Icons
 
 [Vue Router Course](https://cours.brosseau.ovh/tp/vuejs3/routeur.html)
 
-# To Do :
+# TO DO :
 
-[ ] BENTO design
+- Repair Docker 
