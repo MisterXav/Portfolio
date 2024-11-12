@@ -7,8 +7,8 @@
     <div class="transition-all duration-300 ease-in-out hover:scale-110 hover:ring-2 hover:ring-gray-950 mb-40 p-5 w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Je suis Xavier,</h5>
         <p class="font-normal text-gray-700 dark:text-gray-300">
-            Comme précisé plus haut, j'adore toucher a tout, que ce soit dans le développement, l'informatique ou autre. De manière générale, j'aime le jeu vidéo, la programmation, la configuration de serveur, la musique, créer de la musique, la photographie, les évènements, mais surtout créer mes propres projets surtout en équipe avec des amis.<br><br>
-            Je m'intéresse énormément a l'OpenSource et la vie privée en ligne. J'utilise Linux Mint comme OS principal depuis 2 ans. Je fais mon possible pour trouver des alternatives opensource et respectueuses de la vie privée en ligne. <br><br>
+            Comme précisé plus haut, j'adore toucher à tout, que ce soit dans le développement, l'informatique ou autre. De manière générale, j'aime le jeu vidéo, la programmation, la configuration de serveur, la musique, créer de la musique, la photographie, les évènements, mais surtout créer mes propres projets surtout en équipe avec des amis.<br><br>
+            Je m'intéresse énormément à l'OpenSource et la vie privée en ligne. J'utilise Linux Mint comme OS principal depuis 2 ans. Je fais mon possible pour trouver des alternatives opensource et respectueuses de la vie privée en ligne. <br><br>
             C'est dans cette optique que je me suis lancé dans la mise en place d'un serveur MediaCenter avec Almalinux et Nextcloud.
 
         </p>
@@ -17,7 +17,23 @@
     <!-- FORMATIONS -->
     <h2 class="mb-4 text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Formations</h2>
 
-    <ol class="relative border-s border-gray-200 dark:border-gray-700">       
+    <ol class="relative border-s border-gray-200 dark:border-gray-700">
+
+        <!-- Licence Générale Cybersécurité -->
+        <li class="mb-10 ms-6">            
+
+            <!-- icone SVG -->
+            <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+                <svg class="w-2.5 h-2.5 text-blue-800 dark:text-blue-300" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z"/>
+                </svg>
+            </span>
+
+            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Licence Générale Cybersécurité<span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span></h3>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Depuis Septembre 2024</time>
+            <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">Je prépare actuellement une Licence Générale Cybersécurité en alternance.<br>
+                On se forme grâce à la plateforme Root-Me</p>
+        </li>
 
         <!-- BTS SIO -->
         <li class="mb-10 ms-6">            
@@ -29,9 +45,11 @@
                 </svg>
             </span>
 
-            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">BTS SIO SLAM <span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span></h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Depuis Aout 2022</time>
-            <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">Durant le BTS SIO j'ai appris le Java, j'ai amélioré mon niveau en PHP, et en framework (Vue/Ionic) </p>
+            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">BTS SIO SLAM</h3>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Aout 2022 - Juillet 2024</time>
+            <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">
+                J'ai obtenu mon BTS SIO en Juillet 2024 option SLAM.<br>
+                Durant le BTS SIO j'ai appris le Java, j'ai amélioré mon niveau en PHP, et en framework (Vue/Ionic) </p>
         </li>
 
         <!-- STI2D -->
@@ -67,8 +85,8 @@
                 </svg>
             </span>
 
-            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Qualijob <span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span></h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Depuis Novembre 2022</time>
+            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Qualijob<span class="bg-yellow-100 text-yellow-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300 ms-3">Alternance BTS SIO</span></h3>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Novembre 2022 - Aout 2024</time>
             <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">J'ai développé l'application Qualipad et dockerisé l'environnement de développement (CF : Projets) </p>
         </li>
 
@@ -81,7 +99,7 @@
                 </svg>
             </span>
 
-            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Yves Petit Consultant Informatique</h3>
+            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Yves Petit Consultant Informatique<span class="bg-yellow-100 text-yellow-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-yellow-900 dark:text-yellow-300 ms-3">Alternance BTS SIO</span></h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Aout a Novembre 2022</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-300">J'ai fait des cours OpenClassroom et j'ai configurer des WordPress pour les clients.</p>
         </li>
