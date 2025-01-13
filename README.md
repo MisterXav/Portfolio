@@ -46,3 +46,31 @@ docker compose up -d
 # To Do :
 
 [ ] BENTO design
+
+# Bento :
+
+## Resources :
+
+Grid tailwind css template
+https://citrusui.in/components/bento-grid
+
+Another one to try :
+https://tailwindflex.com/@maximus/categories
+
+Good site for color
+https://uicolors.app/create
+
+Cours a suivre
+https://www.remarkable.school/creer-son-identite-de-marque
+
+Bento idea :
+https://www.mickaelmarquez.com/#ShortCam
+
+Figma tutorial to follow : 
+https://www.youtube.com/watch?v=wfI-hYH769w
+
+Bento Link
+https://bento.me/BastiUi
+
+Design tendance 2024
+https://www.youtube.com/watch?v=QqvW6jlH8KA
