@@ -29,10 +29,10 @@
                 </svg>
             </span>
 
-            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Licence Générale Cybersécurité<span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span></h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Depuis Septembre 2024</time>
-            <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">Je prépare actuellement une Licence Générale Cybersécurité en alternance.<br>
-                On se forme grâce à la plateforme Root-Me</p>
+            <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Licence Générale Cybersécurité</h3>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400">Septembre - Décembre 2024</time>
+            <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300">J'ai débuté une licence Cybersécurité chez Proméo.<br>
+                La formation ne m'a pas du tout plu, j'ai quitté la formation.</p>
         </li>
 
         <!-- BTS SIO -->

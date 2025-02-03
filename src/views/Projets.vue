@@ -67,7 +67,7 @@ onMounted(() => {
             </div>
 
             <div class="p-5">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Portfolio</h5><span class=" bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">Actuellement</span>
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Portfolio</h5>
                 <p class="my-3 font-normal text-gray-700 dark:text-gray-300">Le portfolio a pour but de présenter les différents projets et compétences que j'ai acquise ces dernières années</p>
             </div>
         </div>
