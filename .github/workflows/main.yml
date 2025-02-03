@@ -44,7 +44,7 @@ jobs:
       - run: npm run build
         # Génération de l'artefact
       - name: Generate Artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           name: artifact
           path: ./dist
