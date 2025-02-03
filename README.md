@@ -42,7 +42,3 @@ docker compose up -d
 [SVGREPO](https://www.svgrepo.com/) SVG Icons
 
 [Vue Router Course](https://cours.brosseau.ovh/tp/vuejs3/routeur.html)
-
-# TO DO :
-
-- Repair Docker 
