@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     environment:
-      name: artifact
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       # Configuration de GitHub Pages
@@ -63,4 +63,4 @@ jobs:
       # Déploiement sur GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v3
