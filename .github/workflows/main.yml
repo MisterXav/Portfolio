@@ -45,7 +45,7 @@ jobs:
         # Génération de l'artefact
       - name: Generate Artifact
         id: deployment
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
           name: artifact
           path: './dist'
@@ -63,4 +63,4 @@ jobs:
       # Déploiement sur GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
