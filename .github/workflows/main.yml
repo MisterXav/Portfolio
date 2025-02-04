@@ -44,6 +44,7 @@ jobs:
       - run: npm run build
         # Génération de l'artefact
       - name: Generate Artifact
+        id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
           name: artifact
@@ -61,6 +62,5 @@ jobs:
         uses: actions/configure-pages@v4
       # Déploiement sur GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v3
-        with:
-          artifact_name: artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
